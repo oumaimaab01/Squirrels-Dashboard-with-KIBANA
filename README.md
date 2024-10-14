@@ -17,19 +17,25 @@ L'analyse a été réalisée à l'aide de Kibana, avec un tableau de bord intera
 - **Analyse des couleurs de pelage** : Treemap et diagrammes pour comprendre la répartition des couleurs.
 - **Données géospatiales** : Carte de la répartition géographique des écureuils dans Central Park.
 
-## Captures d'écran des Tableaux de Bord
+## Qlqs captures d'écran du Tableau de Bord
 
 ### Tableau de bord général
-![Tableau de bord général](./images/dashboard_squirrels_general.png)
+![Tableau de bord général](./images/Dashboard1)
+![Tableau de bord général](./images/Dashboard2)
 
 ### Répartition des Comportements
-![Comportements des Écureuils](./images/dashboard_squirrels_behavior.png)
+![Comportements des Écureuils](./images/Squirrels_activities.png)
+![Comportements des Écureuils](./images/Squirrels_behavior_filter.png)
+![Comportements des Écureuils](./images/Squirrels_sounds.png)
 
 ### Couleurs de pelage des écureuils
-![Couleurs de Pelage](./images/dashboard_squirrels_fur_color.png)
+![Couleurs de Pelage](./images/Highlight_fur_colors.png)
+![Couleurs de Pelage](./images/Primary_Fur_Colors.png)
+![Couleurs de Pelage](./images/Fur_colors_combination.png)
+
 
 ### Répartition géographique des écureuils
-![Carte des Observations](./images/dashboard_squirrels_map.png)
+![Carte des Observations](./images/Squirrels_location.png)
 
 ## Statistiques Clés
 - **3023** écureuils uniques observés.
