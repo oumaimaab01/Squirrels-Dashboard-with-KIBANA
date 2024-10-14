@@ -20,13 +20,12 @@ L'analyse a été réalisée à l'aide de Kibana, avec un tableau de bord intera
 ## Qlqs captures d'écran du Tableau de Bord
 
 ### Tableau de bord général
-![Tableau de bord général](./images/Dashboard1)
-![Tableau de bord général](./images/Dashboard2)
+![Tableau de bord général](./images/Dashboard1.png)
+![Tableau de bord général](./images/Dashboard2.png)
 
 ### Répartition des Comportements
-![Comportements des Écureuils](./images/Squirrels_activities.png)
 ![Comportements des Écureuils](./images/Squirrels_behavior_filter.png)
-![Comportements des Écureuils](./images/Squirrels_sounds.png)
+![Comportements des Écureuils](./images/Squirrels_activities.png)
 
 ### Couleurs de pelage des écureuils
 ![Couleurs de Pelage](./images/Highlight_fur_colors.png)
